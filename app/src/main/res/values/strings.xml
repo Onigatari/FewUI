@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FewUI</string>
+
+    <string name="textAccount">Аккаунт</string>
+    <string name="textCalculator">Калькулятор</string>
+    <string name="textNew">Новости</string>
+    <string name="textHouse">Займы</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="textSum">Сумма займа, руб</string>
+    <string name="sumLoan">20 000</string>
+    <string name="numberPercent">4 %</string>
+    <string name="textPercent">Ставка, %</string>
+    <string name="numberDay">14</string>
+    <string name="textDay">Срок, дней</string>
+    <string name="Calculate">Расчитать</string>
+</resources>
